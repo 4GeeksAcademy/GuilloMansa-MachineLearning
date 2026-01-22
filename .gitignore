@@ -1,3 +1,15 @@
 __pycache__
 .env
 .learn
+# Modelos y pesos
+models/
+*.keras
+*.h5
+*.pt
+*.pth
+
+# Datasets
+data/
+*.csv
+*.parquet
+*.zip
