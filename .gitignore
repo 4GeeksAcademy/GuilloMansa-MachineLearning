@@ -13,3 +13,6 @@ data/
 *.csv
 *.parquet
 *.zip
+
+models/*.keras
+models/*.h5
